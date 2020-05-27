@@ -9,6 +9,7 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "Auftragsdaten": {
-    "AuftragNr": "HelloWorld"
+    "AuftragNr": "SAP_PiaAMB_DEMO",
+    "SollStückZahl"100
   }
 }
