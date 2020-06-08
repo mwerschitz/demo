@@ -1,6 +1,6 @@
 {
   "posts": [
-    "_System._ProductName": "SAP_PiaAMB_DEMO",
+    "_System._ProductName": "SAP_PiaAMB_DEMO"
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
